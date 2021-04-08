@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" src="https://github.com/webfullstack2016/java1.0/logo.jpg">
+<img width="180px" style="border-radius: 50%" src="https://github.com/webfullstack2016/java1.0/blob/main/logo.jpg">
 
 # JAVA技术栈指南
 
